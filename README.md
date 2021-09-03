@@ -1,9 +1,9 @@
 # DTS
 
-Link : https://aghiffari20.github.io/D6_DTS20/
+Link : https://meuadmiralda.github.io/A03tech.github.io/
 
 Nama Kelompok :
-1. Adinda tri cahyani
+1. Adinda Tri Cahyani
 2. Edo Hardianto ButarButar
 3. Khairunnisa Aulia Azzahra
 4. Meutia Admiralda Andini
