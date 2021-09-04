@@ -197,10 +197,12 @@ h2 {
 .foto-prof2 img, .foto-prof4 img{
     width: 120px;
     height: 120px;
+	object-fit: cover;
 }
 .foto-prof1 img, .foto-prof5 img{
     width: 90px;
     height: 90px;
+	object-fit: cover;
 }
 .title{
     margin-top: 25px;
