@@ -2,7 +2,7 @@
 
 Link : https://meuadmiralda.github.io/A03tech.github.io/
 
-Nama Kelompok :
+Anggota Kelompok A03:
 1. Adinda Tri Cahyani
 2. Edo Hardianto ButarButar
 3. Khairunnisa Aulia Azzahra
