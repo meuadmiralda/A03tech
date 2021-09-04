@@ -83,6 +83,8 @@ header{
   height: 21px;
   flex-direction: column;
   justify-content: space-between;
+	opacity: 0.8
+	cursor: pointer;
 }
 
 .button .bar{
@@ -91,7 +93,9 @@ header{
   background-color: white;
   border-radius: 10px;
 }
-
+.button:hover {
+	opacity: 1;
+}
 .top-wrapper{
   background-image: url("./photo/background.jpg");
   background-size: cover;
@@ -134,9 +138,9 @@ h2 {
   font-size: 33px;
   font-style: oblique;
   font-variant: small-caps;
-  text-decoration: underline;
   font-weight: bold;
-  color: #4c4b80;
+  color: black;
+	font-family: 'EB Garamond', serif;
   text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
   0px 8px 13px rgba(0, 0, 0, 0.1),
   0px 18px 23px rgba(0, 0, 0, 0.1);
@@ -254,7 +258,7 @@ h2 {
 
 .digit-teks {
   width: 60%;
-  font-size: 18px;
+  font-size: 14px;
   text-align: justify;
   font-family: 'Source Sans Pro', sans-serif;
 }
