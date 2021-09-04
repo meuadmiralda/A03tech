@@ -168,6 +168,7 @@ h2 {
     width: 150px;
     height: 150px;
     border-radius: 50%;
+	object-fit: cover;
 }
 .prof1{
     margin-right: -160px;
