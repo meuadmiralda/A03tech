@@ -324,6 +324,8 @@ textarea {
   border: none;
   border-radius: 6px;
   box-shadow: 0px 1px 15px 0px rgba(76, 177, 73, 0.7);
+	cursor: pointer;
+	opacity: 0.8;
 }
 
 .kontak button:active {
@@ -331,6 +333,9 @@ textarea {
   color: black;
 }
 
+.kontak button:hover {
+	opacity: 1;
+}
 /* footer */
 .footer{
 	margin: 0;
